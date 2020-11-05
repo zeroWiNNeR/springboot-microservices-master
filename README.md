@@ -1,2 +1,2 @@
 # springboot-microservices-master
-This is an example project using microservices and spring cloud technology stack.
+This is an example project using microservices, Spring Cloud technology stack and Netflix Open Source Software components. The patterns provided in this project include Service Discovery (Eureka), Intelligent Routing and Server Side Load Balancing (Zuul) and Client Side Load Balancing (Ribbon). This project also stands up and consumes from the Spring Cloud Config Server.
