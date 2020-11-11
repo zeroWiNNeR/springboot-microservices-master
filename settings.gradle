@@ -1,4 +1,4 @@
 rootProject.name = 'springboot-microservices-master'
 
-include('config-server', 'eureka-server', 'frontend')
+include':config-server', ':eureka-server', ':frontend'
 
